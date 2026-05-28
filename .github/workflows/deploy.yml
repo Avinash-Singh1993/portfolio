@@ -1,4 +1,4 @@
-name: Deploy Portfolio V2
+name: Deploy Portfolio  
 
 on:
   push:
