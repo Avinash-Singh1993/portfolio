@@ -96,16 +96,24 @@ export const portfolioData = {
         },
         {
             id: 3,
-            title: "Weather Dashboard",
+            title: "SaathiYatra Travel Agency",
             description:
-                "A weather dashboard with location-based forecasts, interactive charts, and a fully responsive interface.",
-            image:
-                "https://images.unsplash.com/photo-1532623034127-3d92b01fb3c5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2NDF8MHwxfHNlYXJjaHw0fHx3ZWIlMjBkZXZlbG9wbWVudCUyMHdvcmtzcGFjZXxlbnwwfHx8fDE3NTc1ODgxNjN8MA&ixlib=rb-4.1.0&q=85",
-            technologies: ["Vue.js", "Chart.js", "OpenWeather API", "CSS3"],
-            liveUrl: null,
+                "A modern pilgrimage and travel platform designed to help users explore religious destinations, tour packages, accommodation options, and travel information through a responsive and user-friendly interface.",
+            image: "https://cdn.postimage.me/2026/06/03/Portfolio_project_image_03.jpg",
+            technologies: [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "GSAP",
+                "Framer Motion",
+                "PHP",
+                "Tailwind CSS",
+                "Responsive Design",
+            ],
+            liveUrl: "https://avinique.xo.je/saathiyatri/",
             githubUrl: null,
-            featured: false,
-            category: "Frontend",
+            featured: true,
+            category: "Full Stack",
         },
         {
             id: 4,
